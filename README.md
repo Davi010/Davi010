@@ -19,8 +19,8 @@
 
 ### 📊 GitHub Stats
 
-![Davi010 GitHub stats](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
+![Davi010 GitHub stats](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
 ---
 
