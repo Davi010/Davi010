@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 
-![Davi010 Git Hub Stats](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&bg_color=00000000&border_color=FF0000&locale=pt-br&border_radius=3.0)
+![Davi010 Git Hub Stats](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&bg_color=00000000&border_color=FF0000,FFFF00&locale=pt-br&border_radius=3.0)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&bg_color=00000000&border_color=e4e2e2&locale=pt-br&border_radius=3.0)
 
 ---
