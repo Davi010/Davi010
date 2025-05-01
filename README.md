@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 
-![Davi010 GitHub stats](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&bg_color=00000000)
+![Davi010](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&bg_color=00000000)
 
 ---
