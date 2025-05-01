@@ -21,7 +21,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40px" height="40px" alt="Django"/>
 </div>
 
+---
 
+### 📫 Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/davi-sousa-791b94232/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40px" height="40px" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:estagio215@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg" width="40px" height="40px" alt="Gmail" />
+  </a>
+</div>
 
 ---
 
@@ -32,15 +44,7 @@
 
 ---
 
-### 📫 Contato
 
-<a href="https://www.linkedin.com/in/davi-sousa-791b94232/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" height="40px" alt="LinkedIn" />
-</a>
-
-<a href="mailto:estagio215@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40px" height="40px" alt="Gmail" />
-</a>
 
 
 
