@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 
-![Davi010 Git Hub Stats](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&bg_color=00000000&border_color=FF0000&locale=pt-br&border_radius=3.0&text_color=00FF00&icon_color=0000FF&line_height=30&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Davi010 Git Hub Stats](https://github-readme-stats.vercel.app/api?username=davi010&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&bg_color=00000000&border_color=FF0000&locale=pt-br&border_radius=3.0&text_color=00FF00&icon_color=0000FF&line_height=30&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=400px)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&text_color=00FF00&border_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
