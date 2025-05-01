@@ -8,7 +8,7 @@
 
 ### 🛠️ Tecnologias que uso
 
-![JavaScript](https://img.shields.io/npm.svg?logo=javascript)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
 ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
