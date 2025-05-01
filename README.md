@@ -34,7 +34,15 @@
 
 ### 📫 Contato
 
-<a href="https://www.linkedin.com/in/davi-sousa-791b94232/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" height="40px" alt="LinkedIn" />
-</a>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" height="40px" alt="LinkedIn" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40px" height="40px" alt="Gmail" />
+  </a>
+</div>
 
