@@ -26,10 +26,10 @@
 ### 📫 Contato
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="mailto:estagio215@gmail.com" target="_blank">
+  <a href="mailto:estagio215@gmail.com"">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/davi-sousa-791b94232/" target="_blank">
+  <a href="https://www.linkedin.com/in/davi-sousa-791b94232/"">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
