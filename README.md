@@ -35,7 +35,8 @@
 ### 📫 Contato
 
 <a href="https://www.linkedin.com/in/davi-sousa-791b94232/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" height="40px" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
+       width="40px" height="40px" background_color="blue" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:estagio215@gmail.com" target="_blank">
