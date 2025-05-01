@@ -8,24 +8,14 @@
 
 ### 🛠️ Tecnologias que uso
 
-<!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px" height="20px" alt="JavaScript"/>
-
-<!-- React -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px" height="20px" alt="React"/>
-
-<!-- MongoDB -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="20px" height="20px" alt="MongoDB"/>
-
-<!-- PostgreSQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="20px" height="20px" alt="PostgreSQL"/>
-
-<!-- MySQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px" height="20px" alt="MySQL"/>
-
-<!-- Prisma -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="20px" height="20px" alt="Prisma"/>
-
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px" height="20px" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px" height="20px" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="20px" height="20px" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="20px" height="20px" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px" height="20px" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="20px" height="20px" alt="Prisma"/>
+</div>
 
 ---
 
