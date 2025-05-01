@@ -25,15 +25,15 @@
 
 ### 📫 Contato
 
-<div>
-  <a href="https://www.linkedin.com/in/davi-sousa-791b94232/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40px" height="40px" alt="LinkedIn" />
-  </a>
-
+<div style="display: flex; gap: 10px; align-items: center;">
   <a href="mailto:estagio215@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg" width="40px" height="40px" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/davi-sousa-791b94232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 
 ---
 
