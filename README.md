@@ -1,7 +1,9 @@
 ### 👋 Olá! Eu sou o Davi
 
 🎓 Estudante de Sistemas de Informação na UNIFAP  
+
 💻 Desenvolvedor Full Stack | Estudando sobre Machine Learning e Game Dev
+
 🚀 Em busca de oportunidades para crescer e me destacar no área de trabalho
 
 ---
